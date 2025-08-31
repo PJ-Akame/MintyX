@@ -1,0 +1,16 @@
+{
+  "name": "DDD",
+  "symbol": "DDD",
+  "description": "",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/5x1ljsa850/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/5x1ljsa850/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
