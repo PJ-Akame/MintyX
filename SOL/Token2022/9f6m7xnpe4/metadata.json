@@ -1,0 +1,17 @@
+{
+  "name": "GDG",
+  "symbol": "DGD",
+  "description": "GDG (DGD) token created with MintyXSOL",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/9f6m7xnpe4/token.png",
+  "external_url": "https://mintyxsol.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/9f6m7xnpe4/token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
