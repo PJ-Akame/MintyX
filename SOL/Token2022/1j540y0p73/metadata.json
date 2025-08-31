@@ -1,0 +1,37 @@
+{
+  "name": "FSDF",
+  "symbol": "FSS",
+  "description": "FAF",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/1j540y0p73/token.png",
+  "external_url": "https://mintyxsol.com",
+  "attributes": [
+    {
+      "trait_type": "Standard",
+      "value": "Token2022"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "MintyXSOL"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "HJtVNHuttTJuWyipEocdwNSxETvcwXicCpC5WAKtbZoq",
+        "verified": true,
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/1j540y0p73/token.png",
+        "type": "image/png",
+        "cdn": true
+      }
+    ]
+  },
+  "collection": null,
+  "animation_url": null,
+  "seller_fee_basis_points": 0
+}
