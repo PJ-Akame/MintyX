@@ -1,0 +1,16 @@
+{
+  "name": "TestToken2",
+  "symbol": "TEST2",
+  "description": "GitHub integration test",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/7rb6t85p7n/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/7rb6t85p7n/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
