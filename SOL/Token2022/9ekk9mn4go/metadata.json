@@ -1,0 +1,16 @@
+{
+  "name": "AAA",
+  "symbol": "FAF",
+  "description": "",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/images/9ekk9mn4go/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/images/9ekk9mn4go/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
