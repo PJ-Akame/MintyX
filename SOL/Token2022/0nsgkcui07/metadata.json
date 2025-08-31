@@ -1,0 +1,16 @@
+{
+  "name": "FAF",
+  "symbol": "FAF",
+  "description": "",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/0nsgkcui07/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/0nsgkcui07/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
