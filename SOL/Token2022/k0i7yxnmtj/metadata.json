@@ -1,0 +1,16 @@
+{
+  "name": "FFF",
+  "symbol": "FFF",
+  "description": "",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/k0i7yxnmtj/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/k0i7yxnmtj/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
