@@ -1,0 +1,16 @@
+{
+  "name": "DebugTest",
+  "symbol": "DBG",
+  "description": "Debug GitHub Push",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/images/fv65wjqoq7/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/images/fv65wjqoq7/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

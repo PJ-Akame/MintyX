@@ -1,0 +1,16 @@
+{
+  "name": "GitHubTest",
+  "symbol": "GHT",
+  "description": "GitHub Integration Test",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/images/nc734eguew/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/images/nc734eguew/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
