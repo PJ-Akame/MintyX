@@ -1,0 +1,52 @@
+{
+  "name": "AAA",
+  "symbol": "AAA",
+  "description": "AAA (AAA) token created with MintyXSOL",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/r1pbkllfog/token.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "rere",
+      "value": "rerer"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/test"
+    },
+    {
+      "trait_type": "Discord",
+      "value": "https://discord.gg/test"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://discord.gg/test"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Fixed Supply"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "None"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "12"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/r1pbkllfog/token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5PFAvKQrmtogPVnUywViJZ2B9Tk7Bn3PKYS6e9FebqsH",
+        "share": 100
+      }
+    ]
+  }
+}
