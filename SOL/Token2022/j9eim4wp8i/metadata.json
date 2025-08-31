@@ -1,0 +1,16 @@
+{
+  "name": "VerificationTest",
+  "symbol": "VERIFY",
+  "description": "Real verification test",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/j9eim4wp8i/token.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX/SOL/Token2022/j9eim4wp8i/token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
