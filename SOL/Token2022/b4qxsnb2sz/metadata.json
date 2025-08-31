@@ -1,0 +1,37 @@
+{
+  "name": "DAD",
+  "symbol": "DDD",
+  "description": "DAD (DDD) token created with MintyXSOL",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/b4qxsnb2sz/token.png",
+  "external_url": "https://mintyxsol.com",
+  "attributes": [
+    {
+      "trait_type": "Standard",
+      "value": "Token2022"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "MintyXSOL"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "5PFAvKQrmtogPVnUywViJZ2B9Tk7Bn3PKYS6e9FebqsH",
+        "verified": true,
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/b4qxsnb2sz/token.png",
+        "type": "image/png",
+        "cdn": true
+      }
+    ]
+  },
+  "collection": null,
+  "animation_url": null,
+  "seller_fee_basis_points": 0
+}
