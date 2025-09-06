@@ -1,0 +1,31 @@
+{
+  "name": "ZERO_BALANCE_TEST",
+  "symbol": "ZTEST",
+  "description": "Zero Balance Test Token - Should Fail",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/2th3rh8z0m/token.png",
+  "external_url": "https://mintyxsol.com",
+  "attributes": [
+    {
+      "trait_type": "Mint Authority",
+      "value": "Creator"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Creator"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/2th3rh8z0m/token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "share": 100
+      }
+    ]
+  }
+}
