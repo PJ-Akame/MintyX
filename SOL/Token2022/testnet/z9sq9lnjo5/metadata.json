@@ -1,0 +1,32 @@
+{
+  "name": "Test6",
+  "symbol": "TEST",
+  "description": "Test6 (TEST) token created with MintyXSOL",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/z9sq9lnjo5/token.png",
+  "external_url": "https://mintyxsol.com",
+  "attributes": [
+    {
+      "trait_type": "Mint Authority",
+      "value": "Creator"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Creator"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/z9sq9lnjo5/token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "D8zGvbM3w6bcAsnfWcZnWEz2GLeK7LPVftqwsMDCkcHk",
+        "share": 100
+      }
+    ]
+  }
+}
