@@ -1,0 +1,31 @@
+{
+  "name": "TEST",
+  "symbol": "TST",
+  "description": "Test token",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/vl07rq31ce/token.png",
+  "external_url": "https://mintyxsol.com",
+  "attributes": [
+    {
+      "trait_type": "Mint Authority",
+      "value": "Creator"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Creator"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/vl07rq31ce/token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "share": 100
+      }
+    ]
+  }
+}
