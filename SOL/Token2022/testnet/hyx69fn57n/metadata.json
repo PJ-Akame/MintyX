@@ -1,0 +1,32 @@
+{
+  "name": "AAA",
+  "symbol": "AAA",
+  "description": "AAA (AAA) token created with MintyXSOL",
+  "image": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/hyx69fn57n/token.png",
+  "external_url": "https://mintyxsol.com",
+  "attributes": [
+    {
+      "trait_type": "Mint Authority",
+      "value": "Fixed Supply"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Custom"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PJ-Akame/MintyX@main/SOL/Token2022/testnet/hyx69fn57n/token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "D8zGvbM3w6bcAsnfWcZnWEz2GLeK7LPVftqwsMDCkcHk",
+        "share": 100
+      }
+    ]
+  }
+}
